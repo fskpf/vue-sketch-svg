@@ -1,6 +1,6 @@
 # vue-sketch-svg
 
-[![npm version](https://badge.fury.io/js/vue-sketch-svg)](https://badge.fury.io/js/vue-sketch-svg)
+[![npm version](https://badge.fury.io/js/vue-sketch-svg.svg)](https://badge.fury.io/js/vue-sketch-svg)
 
 Wraps [svg2roughjs](https://github.com/fskpf/svg2roughjs) in a Vue component to easily embed SVGs as sketchy, hand-drawn SVGs.
 
