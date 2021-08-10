@@ -1,6 +1,6 @@
 {
   "name": "vue-sketch-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps svg2roughjs in a Vue component to easily embed SVGs as sketchy, hand-drawn SVGs.",
   "keywords": [
     "vue",
